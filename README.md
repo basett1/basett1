@@ -1,7 +1,7 @@
 <div align="center">
 
 ## **[basett1](https://github.com/basett1)** 
-X
+
 **[HackintoshLifeIt](https://www.hackintoshlife.it/)**
 
 [![](https://img.shields.io/badge/Repositories-basett1-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/basett1?tab=repositories)
