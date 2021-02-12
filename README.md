@@ -1,6 +1,8 @@
 <div align="center">
 
-## **[basett1](https://github.com/basett1)**  **[HackintoshLifeIt](https://www.hackintoshlife.it/)**
+## **[basett1](https://github.com/basett1)** 
+X
+**[HackintoshLifeIt](https://www.hackintoshlife.it/)**
 
 [![](https://img.shields.io/badge/Repositories-basett1-informational?style=flat&logo=apple&logoColor=white&color=9debeb)](https://github.com/basett1?tab=repositories)
 [![](https://img.shields.io/badge/Gitter%20Ice%20Lake-Chat-informational?style=flat&logo=gitter&logoColor=white&color=ed1965)](https://gitter.im/ICE-LAKE-HACKINTOSH-DEVELOPMENT/community)
