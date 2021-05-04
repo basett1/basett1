@@ -17,6 +17,6 @@
 
 ## Stats
 
-[![basett1 github stats](https://github-readme-stats.vercel.app/api?username=basett1)](https://github.com/anuraghazra/github-readme-stats)
+![basett1 github stats](https://github-readme-stats.vercel.app/api?username=basett1&show_icons=true&theme=dark)
 
 </div>
